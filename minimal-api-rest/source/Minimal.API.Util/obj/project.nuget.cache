@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkzWvL5tX54Mb23zjRYPsB/8HNswdz6/YxCQ5v6rlgf/B2I88xkr5iNfYsN1B3bvv2hoaJ+wzlBs8sbrZZv0lA==",
+  "success": true,
+  "projectFilePath": "E:\\projetos\\dotnet\\asp.net-core-7\\minimal-api-rest\\source\\Minimal.API.Util\\Minimal.API.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flávio Freire\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Flávio Freire\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Flávio Freire\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

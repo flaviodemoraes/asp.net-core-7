@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dc0FOBVFRJ9Z9J6uo3f0doEVwbd45HwvUags3JlA6mc=",
+  "Source": "Minimal.API.Rest",
+  "BasePath": "_content/Minimal.API.Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

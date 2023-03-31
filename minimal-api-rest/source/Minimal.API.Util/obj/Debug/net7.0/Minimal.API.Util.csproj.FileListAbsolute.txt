@@ -1,0 +1,12 @@
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\bin\Debug\net7.0\Minimal.API.Util.deps.json
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\bin\Debug\net7.0\Minimal.API.Util.dll
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\bin\Debug\net7.0\Minimal.API.Util.pdb
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.csproj.AssemblyReference.cache
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.AssemblyInfoInputs.cache
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.AssemblyInfo.cs
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.csproj.CoreCompileInputs.cache
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.dll
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\refint\Minimal.API.Util.dll
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\Minimal.API.Util.pdb
+E:\projetos\dotnet\asp.net-core-7\minimal-api-rest\source\Minimal.API.Util\obj\Debug\net7.0\ref\Minimal.API.Util.dll
