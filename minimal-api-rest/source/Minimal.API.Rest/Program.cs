@@ -22,9 +22,9 @@ builder.Services.AddAuthentication(x =>
 {
     x.TokenValidationParameters = new TokenValidationParameters
     {
-        ValidIssuer = "your_url",
-        ValidAudience = "your_url",
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("")),
+        ValidIssuer = "concepcaodigital.com",
+        ValidAudience = "concepcaodigital.com",
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bd6b225e6080d0abe9aba7f51fdf8eb8")),
         ValidateIssuer = true,
         ValidateAudience = true,
         ValidateLifetime = true,
