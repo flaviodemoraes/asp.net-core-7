@@ -3,3 +3,12 @@
 ################################################################################
 
 /minimal-api-rest/.vs
+/ddd-with-bdd/.vs
+/ddd-with-bdd/bdd/Specs/obj
+/ddd-with-bdd/ddd/Applications/obj
+/ddd-with-bdd/ddd/Domain/obj
+/ddd-with-bdd/ddd/Domain/bin/Debug/net7.0
+/ddd-with-bdd/ddd/Infra/obj
+/ddd-with-bdd/ddd/Infra/bin/Debug/net7.0
+/ddd-with-bdd/ddd/Services/obj
+/ddd-with-bdd/ddd/Services/bin/Debug/net7.0
