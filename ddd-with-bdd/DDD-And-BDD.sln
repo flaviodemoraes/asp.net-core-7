@@ -7,13 +7,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ddd", "ddd", "{BE06ACEE-91F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bdd", "bdd", "{C0134744-CEAD-4DFF-97CC-BE80F4A79DB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "ddd\Domain\Domain.csproj", "{53E58ECA-B45C-422E-A871-1E8BEC445194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "ddd\Domain\Domain.csproj", "{53E58ECA-B45C-422E-A871-1E8BEC445194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "ddd\Services\Services.csproj", "{37994B3C-AF90-4E17-B00A-FD88F2DF0A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "ddd\Services\Services.csproj", "{37994B3C-AF90-4E17-B00A-FD88F2DF0A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "ddd\Infra\Infra.csproj", "{CE509AB7-F2BF-495B-8BD4-6F09863271C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "ddd\Infra\Infra.csproj", "{CE509AB7-F2BF-495B-8BD4-6F09863271C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specs", "bdd\Specs\Specs.csproj", "{BD9B1B04-83E1-4C94-BB5E-E825E0362C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specs", "bdd\Specs\Specs.csproj", "{BD9B1B04-83E1-4C94-BB5E-E825E0362C21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{B7E8671F-817E-42DF-B103-EA0934461C9F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
